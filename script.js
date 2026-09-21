@@ -5,7 +5,7 @@
 [] Quando clicar na máscara,fechar o modal 
 */
 const modal = document.querySelector(".modal")
-const mascara = document.querySelector(".mascara")
+const mascara = document.querySelector(".mascara-modal")
 
 function mostrarModal() {
     modal.style.left = '50%'
